@@ -6,6 +6,50 @@
 Welcome to PracticalCoastalModel's documentation!
 =================================================
 
+* Prerequisites for the class
+  
+    Github
+
+    linux/unix system
+
+    script editting
+
+    makefile
+
+    HPC
+
+* Basic skills
+
+    Fortran
+
+    MPI Parallelization
+
+    Matlab/Python or other Graphic softwares
+
+* Numerical schemes
+
+* Theories  
+
+* Coastal models
+
+    Delft models: Delft3D Flow, SWAN, Sediment
+
+    ADCIRC
+
+    NearCOM
+
+    FUNWAVE
+
+    NHWAVE
+
+    XBeach
+
+    SWASH
+
+    MONGOOSE
+
+    OpenFORM
+  
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
